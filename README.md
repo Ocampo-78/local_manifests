@@ -3,7 +3,7 @@ Cedric Development
 
 the local manifests:
 
-	git clone https://github.com/Ocampo-78/local_manifest -b dot-o .repo/local_manifests
+	git clone https://github.com/Ocampo-78/local_manifests -b dot-o .repo/local_manifests
 
 Then sync up with this command:
 
