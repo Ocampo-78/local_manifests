@@ -6,7 +6,7 @@
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
 
 <!-- Moto G5 Cedric Projects -->
-  <project name="dotOS-Devices/android_device_motorola_cedric" path="device/motorola/cedric" remote="github" revision="dot-o" />
+  <project name="Ocampo-78/android_device_motorola_cedric" path="device/motorola/cedric" remote="github" revision="Du-12.0" />
   <project name="dotOS-Devices/android_kernel_motorola_msm8937" path="kernel/motorola/msm8937" remote="github" revision="dot-o" />
   <project name="dotOS-Devices/proprietary_vendor_motorola_cedric" path="vendor/motorola/cedric" remote="github" revision="dot-o" />
   
