@@ -3,7 +3,7 @@ Cedric Development
 
 the local manifests:
 
-	git clone https://github.com/Ocampo-78/local_manifests -b omni-8.1 .repo/local_manifests
+	git clone https://github.com/Ocampo-78/local_manifests -b nos-o2 .repo/local_manifests
 
 Then sync up with this command:
 
