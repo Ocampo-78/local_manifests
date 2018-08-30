@@ -6,14 +6,18 @@
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
 
 <!-- Moto G5 Cedric Projects -->
-  <project name="Ocampo-78/android_device_motorola_cedric" path="device/motorola/cedric" remote="github" revision="omni-8.1" />
+  <project name="Ocampo-78/android_device_motorola_cedric" path="device/motorola/cedric" remote="github" revision="nos-o2" />
   <project name="dotOS-Devices/android_kernel_motorola_msm8937" path="kernel/motorola/msm8937" remote="github" revision="dot-o" />
   <project name="dotOS-Devices/proprietary_vendor_motorola_cedric" path="vendor/motorola/cedric" remote="github" revision="dot-o" />
   
   <!-- MSM8937 Projects -->
-  <project name="Sohamlad7/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8937" remote="github" revision="lineage-15.1-caf-8937" />
-  <project name="Sohamlad7/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8937" remote="github" revision="lineage-15.1-caf-8937" />
-  <project name="Sohamlad7/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8937" remote="github" revision="lineage-15.1-caf-8937" />
+  <project name="nitrogen-project/android_hardware_qcom_audio-caf-msm8996" path="hardware/qcom/audio-caf-msm8996" remote="github" revision="o2-8996" />
+  <project name="nitrogen-project/android_hardware_qcom_display-caf-msm8996" path="hardware/qcom/display-caf-msm8996" remote="github" revision="o2-8996" />
+  <project name="nitrogen-project/android_hardware_qcom_media-caf-msm8996" path="hardware/qcom/media-caf-msm8996" remote="github" revision="o2-8996" />
+
+  <!-- Dependencies Projects -->
+  <project name="omnirom/vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="github" revision="android-8.1" />
+  <project name="omnirom/nitrogen-project/android_vendor_qcom_opensource_interfaces" remote="github" revision="o2" />
 </manifest>
 
 
